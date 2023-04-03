@@ -1,0 +1,50 @@
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+@import "./components/container.css";
+@import "./components/Avatar.css";
+@import "./components/button.css";
+@import "./components/banner.css";
+@import "./components/card.css";
+
+
+body {
+	font-family: 'Montserrat', serif;
+	font-size: 18px;
+	margin: 0px; 
+	color : beige;
+}
+
+h1, h2, h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	color: blue;
+}
+
+li {
+	color: blue;
+}
+
+i {
+	color: blue;
+}
+
+.footer {
+  background-color: beige;
+  padding: 24px;
+  color: blue;
+}
+.footer a {
+  color: blue;
+  font-size: 32px;
+}
